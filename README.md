@@ -6,7 +6,7 @@
 ## 🛠 Проекты
 
 - [report_core](https://github.com/stalexsm/report_core) — библиотека для построения Excel-отчётов (XLSX), опубликована на PyPI как `report-core`.
-- [pg-audit-trail](https://github.com/stalexsm/pg-audit-trail) — автоматический журнал аудита для PostgreSQL: отслеживает изменения данных.
+- [waltrail](https://github.com/stalexsm/waltrail) — автоматический журнал аудита для PostgreSQL: отслеживает изменения данных.
 
 ## 📬 Связь
 
